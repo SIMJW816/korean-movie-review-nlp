@@ -2,7 +2,7 @@
 
 > Hugging Face Transformers + Gradio 기반 멀티태스크 NLP 애플리케이션  
 > KoELECTRA · XLM-RoBERTa · KoBART · KLUE-RoBERTa를 통합한 한국어 AI 도구상자
-> hugging face url: https://huggingface.co/spaces/simjaewook/korean_movie_review_nlp
+> Hugging Face url: https://huggingface.co/spaces/simjaewook/korean_movie_review_nlp
 
 ---
 
